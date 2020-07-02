@@ -1,11 +1,11 @@
 <h2><span style="font-family: Calibri Light">User Management</span></h2>
 <p></p>
   <p><span style="font-family: Calibri Light">This topic has the purpose of explaining how to use the functionalities related to the user, like how to register, reset password, make a user an administrator and delete.</span></p>
-  <p><span style="font-family: Calibri Light">First, you must access the users area by clicking on the <img alt="" border="0" height="20" src="bt_options.png" style="cursor: nwse-resize;" width="20" /> button in the right corner of the menu and selecting the <b>"Administration"</b> option. Then click on <b>"Users"</b>.</span></p>
+  <p><span style="font-family: Calibri Light">First, you must access the users area by clicking on <img alt="" border="0" height="20" src="bt_options.png" style="cursor: nwse-resize;" width="20" /> button in the right corner of the menu and selecting the <b>"Administration"</b> option. Then click on <b>"Users"</b>.</span></p>
   <p><span style="font-family: Calibri Light">See below how to perform each of these actions.</span></p>
   <br>
   <h3><span style="font-family: Calibri Light">How to register a new user?</span></h3>
-  <p><span style="font-family: Calibri Light">To register a new user, click on the <b>"+ New"</b> button located in the upper right corner of the screen.</span></p>
+  <p><span style="font-family: Calibri Light">To register a new user, click on <b>"+ New"</b> button located in the upper right corner of the screen.</span></p>
   <p><span style="font-family: Calibri Light">Then, fill in the following fields:</span></p>
   <ul>
     <li>
@@ -52,7 +52,7 @@
 <br>
 <h3><span style="font-family: Calibri Light">How to reset users' password?</span></h3>
 <p><span style="font-family: Calibri Light">To reset a user's password, first select the desired user from the list of users displayed on the screen.</span></p>
-<p><span style="font-family: Calibri Light">Then, click on the <b>"Edit"</b> button.</span></p>
+<p><span style="font-family: Calibri Light">In User info area, click on <b>"Edit"</b> button.</span></p>
 <p><span style="font-family: Calibri Light">After editing, select the option "Set random password and send by email" so that a new password is generated and sent by email to the user.</span></p>
 <p><span style="font-family: Calibri Light">When selecting this option, the option "Require password change" is automatically selected so that the user has to change his/her password at the first access with the new password.</span></p>
 <p><img alt="" border="0" height="60" src="reset_pwd.png" style="cursor: nwse-resize;" width="250" /></p>
@@ -60,12 +60,12 @@
 <br>
 <h3><span style="font-family: Calibri Light">How to make a user an admin?</span></h3>
 <p><span style="font-family: Calibri Light">To make a user an administrator, first select the desired user from the list of users displayed on the screen.</span></p>
-<p><span style="font-family: Calibri Light">Click on the <img alt="" border="0" height="20" src="bt_options_user.png" style="cursor: nwse-resize;" width="20" /> button and select the <b>"Make Admin"</b> option.</span></p>
+<p><span style="font-family: Calibri Light">In User info area, click on <img alt="" border="0" height="20" src="bt_options_user.png" style="cursor: nwse-resize;" width="20" /> button and select the <b>"Make Admin"</b> option.</span></p>
 <p><img alt="" border="0" height="110" src="make_adm.png" style="cursor: nwse-resize;" width="100" /></p>
 <br>
 <h3><span style="font-family: Calibri Light">How to delete a user?</span></h3>
 <p><span style="font-family: Calibri Light">To delete a user, first select the desired user from the list of users displayed on the screen.</span></p>
-<p><span style="font-family: Calibri Light">Click on the <img alt="" border="0" height="20" src="bt_options_user.png" style="cursor: nwse-resize;" width="20" /> button and select the <b>"Delete"</b> option.</span></p>
+<p><span style="font-family: Calibri Light">In User info area, click on <img alt="" border="0" height="20" src="bt_options_user.png" style="cursor: nwse-resize;" width="20" /> button and select the <b>"Delete"</b> option.</span></p>
 <p><img alt="" border="0" height="100" src="delete_user.png" style="cursor: nwse-resize;" width="110" /></p>
 <p><span style="font-family: Calibri Light">At this point, a confirmation message is displayed:</span></p>
 <p><span style="font-family: Calibri Light"><i>"Are you sure?"</i></span></p>
